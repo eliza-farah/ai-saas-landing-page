@@ -1,6 +1,6 @@
-# SaaS Landing Page
+# AI SaaS Landing Page
 
-A clean and modern SaaS landing page built with **React** and **Bootstrap**.
+A clean and modern SaaS landing page built with **React** and **Tailwind CSS**.
 
 ## 🔗 Live Website
 👉 https://saas-landing-page-taupe-mu.vercel.app/#
