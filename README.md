@@ -3,7 +3,7 @@
 A clean and modern SaaS landing page built with **React** and **Tailwind CSS**.
 
 ## 🔗 Live Website
-👉 https://saas-landing-page-taupe-mu.vercel.app/#
+👉 https://ai-saas-landing-page-lemon.vercel.app/
 
 ## 🚀 Features
 - Fully responsive design
@@ -12,7 +12,7 @@ A clean and modern SaaS landing page built with **React** and **Tailwind CSS**.
 
 ## 🛠 Tech Used
 - React
-- Bootstrap 5
+- Tailwind CSS
 - HTML, CSS, JavaScript
 
 ## 📁 How to Run It Locally
