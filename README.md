@@ -1,12 +1,35 @@
-# React + Vite
+# SaaS Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and modern SaaS landing page built with **React** and **Bootstrap**.
 
-Currently, two official plugins are available:
+## 🔗 Live Website
+👉 https://saas-landing-page-taupe-mu.vercel.app/#
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Fully responsive design
+- Clean layout and styling
+- Services, features, pricing, and contact sections
 
-## Expanding the ESLint configuration
+## 🛠 Tech Used
+- React
+- Bootstrap 5
+- HTML, CSS, JavaScript
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 How to Run It Locally
+
+```bash
+git clone https://github.com/yourusername/your-repo-name.git
+cd your-repo-name
+npm install
+npm start
+```
+
+## 📬 Contact
+
+Want to work together or have a project in mind?
+
+- 📧 Email: [elizafarah100@gmail.com]
+- 🌐 Portfolio: [yourportfolio.com]
+- 🐙 GitHub: [https://github.com/eliza-farah]
+
+
